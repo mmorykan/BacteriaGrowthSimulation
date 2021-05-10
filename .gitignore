@@ -1,0 +1,4 @@
+analysis.md
+*.sh
+.DS_Store
+outputs/
